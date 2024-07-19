@@ -14,7 +14,7 @@
   {
       $this->servername="localhost";
       $this->username="root";
-      $this->password="@Uunh7154";
+      $this->password="******";
       $this->dbname="networth";
 
       try {
